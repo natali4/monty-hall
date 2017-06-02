@@ -1,4 +1,4 @@
-###Monty hall 
+## Monty hall 
 
 Simulation of winning chances depending on game strategy
 
